@@ -58,3 +58,9 @@ def pytest_runtest_makereport(item):
 
 def _capture_screenshot(name):
         driver.get_screenshot_as_file(name)
+
+
+## git changes code 
+
+def new_function():
+    pass
