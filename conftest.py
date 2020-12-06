@@ -63,10 +63,15 @@ def _capture_screenshot(name):
 ## git changes code 
 
 def new_function():
-    pass
+    return 65
 
 def newest_function():
-    pass
+    return 3
 
 def pushback_function():
-    pass
+    return 1
+
+add apply(
+add app
+add app
+)
