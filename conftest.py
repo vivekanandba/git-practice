@@ -64,3 +64,6 @@ def _capture_screenshot(name):
 
 def new_function():
     pass
+
+def newest_function():
+    pass
