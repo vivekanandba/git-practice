@@ -1,0 +1,133 @@
+2020-12-05 19:21:57,253 :INFO : test_e2e :getting all the card titles
+2020-12-05 19:21:57,343 :INFO : test_e2e :<selenium.webdriver.remote.webelement.WebElement (session="636064a10ac5b5bc6c05c0554af0b5f4", element="fe11e622-2cf6-4448-816b-06912cc859ce")>
+2020-12-05 19:21:57,344 :INFO : test_e2e :<selenium.webdriver.remote.webelement.WebElement (session="636064a10ac5b5bc6c05c0554af0b5f4", element="c7ce9768-2dd4-4665-a181-9c9ec52f76cb")>
+2020-12-05 19:21:57,344 :INFO : test_e2e :<selenium.webdriver.remote.webelement.WebElement (session="636064a10ac5b5bc6c05c0554af0b5f4", element="d3a708ab-66ae-4cfb-a0da-73753704ef9f")>
+2020-12-05 19:21:57,345 :INFO : test_e2e :<selenium.webdriver.remote.webelement.WebElement (session="636064a10ac5b5bc6c05c0554af0b5f4", element="f902cbdd-3dc2-4026-a35f-3226d1be0d75")>
+2020-12-05 19:21:57,771 :INFO : test_e2e :Entering country name as ind
+2020-12-05 19:22:03,795 :INFO : test_e2e :Text received from application is ï¿½
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-12-05 19:22:55,699 :INFO : test_e2e :getting all the card titles
+2020-12-05 19:22:56,057 :INFO : test_e2e :Entering country name as ind
+2020-12-05 19:23:01,695 :INFO : test_e2e :Text received from application is ï¿½
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-12-05 19:25:40,970 :INFO : test_e2e :getting all the card titles
+2020-12-05 19:25:40,991 :INFO : test_e2e :('xpath', 'div/h4/a')
+2020-12-05 19:25:40,992 :INFO : test_e2e :('xpath', 'div/h4/a')
+2020-12-05 19:25:40,992 :INFO : test_e2e :('xpath', 'div/h4/a')
+2020-12-05 19:25:40,992 :INFO : test_e2e :('xpath', 'div/h4/a')
+2020-12-05 19:25:41,176 :INFO : test_e2e :Entering country name as ind
+2020-12-05 19:25:46,792 :INFO : test_e2e :Text received from application is ï¿½
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-12-05 19:46:13,009 :INFO : test_e2e :getting all the card titles
+2020-12-05 19:46:13,030 :INFO : test_e2e :('xpath', 'div/h4/a')
+2020-12-05 19:46:13,030 :INFO : test_e2e :('xpath', 'div/h4/a')
+2020-12-05 19:46:13,030 :INFO : test_e2e :('xpath', 'div/h4/a')
+2020-12-05 19:46:13,030 :INFO : test_e2e :('xpath', 'div/h4/a')
+2020-12-05 19:46:13,188 :INFO : test_e2e :Entering country name as ind
+2020-12-05 19:46:18,817 :INFO : test_e2e :Text received from application is ï¿½
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-12-05 19:50:31,701 :INFO : test_formSubmission :First name isVivek
+2020-12-05 19:50:32,593 :INFO : test_formSubmission :First name isAsder
+2020-12-05 19:50:32,593 :INFO : test_formSubmission :First name isAsder
+2020-12-05 19:52:45,384 :INFO : test_formSubmission :First name isVivek
+2020-12-05 19:52:46,273 :INFO : test_formSubmission :First name isAsder
+2020-12-05 19:52:46,273 :INFO : test_formSubmission :First name isAsder
+2020-12-05 19:52:54,116 :INFO : test_e2e :getting all the card titles
+2020-12-05 19:52:54,142 :INFO : test_e2e :('xpath', 'div/h4/a')
+2020-12-05 19:52:54,142 :INFO : test_e2e :('xpath', 'div/h4/a')
+2020-12-05 19:52:54,142 :INFO : test_e2e :('xpath', 'div/h4/a')
+2020-12-05 19:52:54,142 :INFO : test_e2e :('xpath', 'div/h4/a')
+2020-12-05 19:52:54,303 :INFO : test_e2e :Entering country name as ind
+2020-12-05 19:52:59,957 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-12-05 20:01:53,456 :INFO : test_formSubmission :First name isVivek
+2020-12-05 20:01:54,175 :INFO : test_formSubmission :First name isAsder
+2020-12-05 20:01:54,175 :INFO : test_formSubmission :First name isAsder
+2020-12-05 20:02:02,025 :INFO : test_e2e :getting all the card titles
+2020-12-05 20:02:02,053 :INFO : test_e2e :('xpath', 'div/h4/a')
+2020-12-05 20:02:02,054 :INFO : test_e2e :('xpath', 'div/h4/a')
+2020-12-05 20:02:02,054 :INFO : test_e2e :('xpath', 'div/h4/a')
+2020-12-05 20:02:02,054 :INFO : test_e2e :('xpath', 'div/h4/a')
+2020-12-05 20:02:02,280 :INFO : test_e2e :Entering country name as ind
+2020-12-05 20:02:07,980 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-12-05 23:07:52,128 :INFO : test_formSubmission :First name isVivek
+2020-12-05 23:07:52,971 :INFO : test_formSubmission :First name isAsder
+2020-12-05 23:07:52,971 :INFO : test_formSubmission :First name isAsder
+2020-12-05 23:08:01,204 :INFO : test_e2e :getting all the card titles
+2020-12-05 23:08:01,236 :INFO : test_e2e :('xpath', 'div/h4/a')
+2020-12-05 23:08:01,236 :INFO : test_e2e :('xpath', 'div/h4/a')
+2020-12-05 23:08:01,236 :INFO : test_e2e :('xpath', 'div/h4/a')
+2020-12-05 23:08:01,236 :INFO : test_e2e :('xpath', 'div/h4/a')
+2020-12-05 23:08:01,535 :INFO : test_e2e :Entering country name as ind
+2020-12-05 23:08:07,203 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-12-05 23:11:32,484 :INFO : test_formSubmission :First name isVivek
+2020-12-05 23:11:33,364 :INFO : test_formSubmission :First name isAsder
+2020-12-05 23:11:33,364 :INFO : test_formSubmission :First name isAsder
+2020-12-05 23:11:41,971 :INFO : test_e2e :getting all the card titles
+2020-12-05 23:11:41,997 :INFO : test_e2e :('xpath', 'div/h4/a')
+2020-12-05 23:11:41,997 :INFO : test_e2e :('xpath', 'div/h4/a')
+2020-12-05 23:11:41,997 :INFO : test_e2e :('xpath', 'div/h4/a')
+2020-12-05 23:11:41,997 :INFO : test_e2e :('xpath', 'div/h4/a')
+2020-12-05 23:11:42,253 :INFO : test_e2e :Entering country name as ind
+2020-12-05 23:11:48,124 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-12-05 23:12:13,157 :INFO : test_formSubmission :First name isVivek
+2020-12-05 23:12:14,139 :INFO : test_formSubmission :First name isAsder
+2020-12-05 23:12:14,139 :INFO : test_formSubmission :First name isAsder
+2020-12-05 23:12:21,981 :INFO : test_e2e :getting all the card titles
+2020-12-05 23:12:22,005 :INFO : test_e2e :('xpath', 'div/h4/a')
+2020-12-05 23:12:22,005 :INFO : test_e2e :('xpath', 'div/h4/a')
+2020-12-05 23:12:22,005 :INFO : test_e2e :('xpath', 'div/h4/a')
+2020-12-05 23:12:22,005 :INFO : test_e2e :('xpath', 'div/h4/a')
+2020-12-05 23:12:22,208 :INFO : test_e2e :Entering country name as ind
+2020-12-05 23:12:28,223 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-12-05 23:13:45,844 :INFO : test_formSubmission :First name isVivek
+2020-12-05 23:13:47,360 :INFO : test_formSubmission :First name isAsder
+2020-12-05 23:13:47,360 :INFO : test_formSubmission :First name isAsder
+2020-12-05 23:14:01,071 :INFO : test_e2e :getting all the card titles
+2020-12-05 23:14:01,081 :INFO : test_e2e :('xpath', 'div/h4/a')
+2020-12-05 23:14:01,081 :INFO : test_e2e :('xpath', 'div/h4/a')
+2020-12-05 23:14:01,081 :INFO : test_e2e :('xpath', 'div/h4/a')
+2020-12-05 23:14:01,081 :INFO : test_e2e :('xpath', 'div/h4/a')
+2020-12-05 23:14:01,633 :INFO : test_e2e :Entering country name as ind
+2020-12-05 23:14:07,790 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-12-05 23:23:45,436 :INFO : test_formSubmission :First name isVivek
+2020-12-05 23:23:46,449 :INFO : test_formSubmission :First name isAsder
+2020-12-05 23:23:46,449 :INFO : test_formSubmission :First name isAsder
+2020-12-05 23:23:55,015 :INFO : test_e2e :getting all the card titles
+2020-12-05 23:23:55,038 :INFO : test_e2e :('xpath', 'div/h4/a')
+2020-12-05 23:23:55,038 :INFO : test_e2e :('xpath', 'div/h4/a')
+2020-12-05 23:23:55,038 :INFO : test_e2e :('xpath', 'div/h4/a')
+2020-12-05 23:23:55,038 :INFO : test_e2e :('xpath', 'div/h4/a')
+2020-12-05 23:23:55,201 :INFO : test_e2e :Entering country name as ind
+2020-12-05 23:24:00,962 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-12-05 23:30:04,222 :INFO : test_formSubmission :First name isVivek
+2020-12-05 23:30:05,316 :INFO : test_formSubmission :First name isAsder
+2020-12-05 23:30:05,316 :INFO : test_formSubmission :First name isAsder
+2020-12-05 23:30:16,955 :INFO : test_e2e :getting all the card titles
+2020-12-05 23:30:16,977 :INFO : test_e2e :('xpath', 'div/h4/a')
+2020-12-05 23:30:16,977 :INFO : test_e2e :('xpath', 'div/h4/a')
+2020-12-05 23:30:16,978 :INFO : test_e2e :('xpath', 'div/h4/a')
+2020-12-05 23:30:16,978 :INFO : test_e2e :('xpath', 'div/h4/a')
+2020-12-05 23:30:17,216 :INFO : test_e2e :Entering country name as ind
+2020-12-05 23:30:23,204 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-12-05 23:32:54,915 :INFO : test_formSubmission :First name isVivek
+2020-12-05 23:32:55,696 :INFO : test_formSubmission :First name isAsder
+2020-12-05 23:32:55,696 :INFO : test_formSubmission :First name isAsder
+2020-12-05 23:33:05,000 :INFO : test_e2e :getting all the card titles
+2020-12-05 23:33:05,021 :INFO : test_e2e :('xpath', 'div/h4/a')
+2020-12-05 23:33:05,021 :INFO : test_e2e :('xpath', 'div/h4/a')
+2020-12-05 23:33:05,021 :INFO : test_e2e :('xpath', 'div/h4/a')
+2020-12-05 23:33:05,021 :INFO : test_e2e :('xpath', 'div/h4/a')
+2020-12-05 23:33:05,216 :INFO : test_e2e :Entering country name as ind
+2020-12-05 23:33:11,044 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-12-06 08:39:08,368 :INFO : test_formSubmission :First name isVievk
+2020-12-06 08:40:10,110 :INFO : test_formSubmission :First name isVievk
+2020-12-06 08:41:02,939 :INFO : test_formSubmission :First name isVievk
